@@ -1,2 +1,2 @@
 # photoweb
-this is a photo Web Site
+This Is a photo Web Site
